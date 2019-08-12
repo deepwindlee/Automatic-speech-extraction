@@ -182,4 +182,4 @@ cd similar_said
 python get_word_similar_said.py
 ```
 你会发现在　similar_said/　得到了similar_said.txt里面存储了所有与say相近的词语。
-
+fa
